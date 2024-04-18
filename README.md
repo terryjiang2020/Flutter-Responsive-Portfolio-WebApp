@@ -12,13 +12,18 @@ You can explore the live version of the website [Click to see live demo](https:/
 
 ## Table of Contents
 
-- [Key Features](#key-features)
-- [Technologies and Packages Used](#technologies-and-packages-used)
-- [Getting Started](#getting-started)
-- [Usage Guide](#usage-guide)
-- [Contributions](#contributions)
-- [Contact Me](#contact-me)
-- [License](#license)
+- [Responsive Flutter Portfolio Application \& Website](#responsive-flutter-portfolio-application--website)
+  - [Live Demo](#live-demo)
+  - [Screenshots](#screenshots)
+  - [Table of Contents](#table-of-contents)
+  - [Key Features](#key-features)
+  - [Technologies and Packages Used](#technologies-and-packages-used)
+  - [Getting Started](#getting-started)
+  - [Usage Guide](#usage-guide)
+  - [Contributions](#contributions)
+  - [Contact Me](#contact-me)
+  - [License](#license)
+    - [Designed and developed with ❤️ by Hamad Anwar.](#designed-and-developed-with-️-by-hamad-anwar)
 
 ## Key Features
 
@@ -53,6 +58,8 @@ To explore and interact with the portfolio website on your local machine, follow
    flutter pub get
 3. **Run Application**
    flutter run
+   
+   flutter run --web-port 5000 --observatory-port=9200
 
 ## Usage Guide
 
